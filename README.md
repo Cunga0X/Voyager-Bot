@@ -14,10 +14,10 @@
     <br/>
     <br/>
     <a href="https://github.com/Cunga0X/Voyager-Bot">View Demo</a>
-    .
-    <a href="https://github.com/Cunga0X/Voyager-Bot/issues">Report Bug</a>
-    .
-    <a href="https://github.com/Cunga0X/Voyager-Bot/issues">Request Feature</a>
+    -
+    <a href="https://github.com/Cunga0X/Voyager-Bot/issues/new?assignees=Cunga0X&labels=bug&template=bug_report.md&title=">Report Bug</a>
+    -
+    <a href="https://github.com/Cunga0X/Voyager-Bot/issues/new?assignees=Cunga0X&labels=enhancement&template=feature_request.md&title=">Request Feature</a>
   </p>
 </p>
 <div align="center">
@@ -101,4 +101,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Cunga0X/Voya
 
 ## Authors
 
-- **Cunga0X** - \** - [Cunga0X](https://github.com/Cunga0X/) - *Built Voyager\*
+- **Cunga0X** - [Profile page](https://github.com/Cunga0X/)

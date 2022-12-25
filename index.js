@@ -7,7 +7,8 @@ const Ascii = require("ascii-table");
 const config = require("./config.json");
 
 const { Channel, GuildMember, Message, Reaction, ThreadMember, User, GuildScheduledEvent } = Partials;
-
+const nodes = require("./Systems/Nodes");
+const { Manager } = require("erela.js");
 const client = new Client({
 	intents: 131071,
 	partials: [Channel, GuildMember, Message, Reaction, ThreadMember, User, GuildScheduledEvent],
@@ -17,7 +18,17 @@ const client = new Client({
 
 client.commands = new Collection();
 
-const Handlers = ["Events", "Errors", "Commands"];
+client.player = new Manager({
+	nodes,
+	send: (id, payload) => {
+		let guild = client.guilds.cache.get(id);
+		if (guild) guild.shard.send(payload);
+	},
+});
+
+client.on("raw", (d) => client.player.updateVoiceState(d));
+
+const Handlers = ["Events", "Errors", "Commands", "Player"];
 
 Handlers.forEach((handler) => {
 	require(`./Handlers/${handler}`)(client, PG, Ascii);

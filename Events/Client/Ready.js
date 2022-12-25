@@ -13,6 +13,8 @@ module.exports = {
 	async execute(client) {
 		const { user, ws } = client;
 
+		client.player.init(user.id);
+
 		console.log(chalk.green(`${user.tag} is now online!`));
 
 		setInterval(() => {
