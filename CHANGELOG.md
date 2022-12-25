@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.3.0](https://github.com/Cunga0X/Voyager-Bot/compare/v1.2.0...v1.3.0) (2022-12-25)
+
+
+### Features
+
+* Added new Commands ([28bf36c](https://github.com/Cunga0X/Voyager-Bot/commit/28bf36c0a12bcf30b420de4a264822515afa1b78))
+* **Fun:** /meme ([28bf36c](https://github.com/Cunga0X/Voyager-Bot/commit/28bf36c0a12bcf30b420de4a264822515afa1b78))
+* **Fun:** /pixelate ([28bf36c](https://github.com/Cunga0X/Voyager-Bot/commit/28bf36c0a12bcf30b420de4a264822515afa1b78))
+
+
+### Bug Fixes
+
+* **Fun:** fetch now doesn't spam console ([28bf36c](https://github.com/Cunga0X/Voyager-Bot/commit/28bf36c0a12bcf30b420de4a264822515afa1b78))
+
 ## [1.2.0](https://github.com/Cunga0X/Voyager-Bot/compare/v1.1.1...v1.2.0) (2022-12-25)
 
 
