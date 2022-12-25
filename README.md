@@ -21,7 +21,9 @@
   </p>
 </p>
 <div align="center">
+
 ![Version](https://img.shields.io/github/v/tag/Cunga0X/Voyager-Bot?label=version) ![Contributors](https://img.shields.io/github/contributors/Cunga0X/Voyager-Bot?color=dark-green) ![Issues](https://img.shields.io/github/issues/Cunga0X/Voyager-Bot) ![License](https://img.shields.io/github/license/Cunga0X/Voyager-Bot)
+
 </div>
 
 ## Table Of Contents
