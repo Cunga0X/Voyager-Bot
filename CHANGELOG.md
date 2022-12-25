@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.0.0](https://github.com/Cunga0X/Voyager-Bot/compare/v1.3.0...v2.0.0) (2022-12-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* Added Music
+
+### Features
+
+* Added Music ([6e14a79](https://github.com/Cunga0X/Voyager-Bot/commit/6e14a793d86cc3b70cad7f47b49abe3783eb8289))
+* **Music:** added /play command ([6e14a79](https://github.com/Cunga0X/Voyager-Bot/commit/6e14a793d86cc3b70cad7f47b49abe3783eb8289))
+* **Music:** added /skip command ([6e14a79](https://github.com/Cunga0X/Voyager-Bot/commit/6e14a793d86cc3b70cad7f47b49abe3783eb8289))
+* **Music:** added /stop command ([6e14a79](https://github.com/Cunga0X/Voyager-Bot/commit/6e14a793d86cc3b70cad7f47b49abe3783eb8289))
+
+
+### Bug Fixes
+
+* **ReadMe:** Fixed some links ([6e14a79](https://github.com/Cunga0X/Voyager-Bot/commit/6e14a793d86cc3b70cad7f47b49abe3783eb8289))
+
 ## [1.3.0](https://github.com/Cunga0X/Voyager-Bot/compare/v1.2.0...v1.3.0) (2022-12-25)
 
 
