@@ -36,7 +36,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Authors](#authors)
-- [Acknowledgements](#acknowledgements)
 
 ## Built With
 

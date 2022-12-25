@@ -1,6 +1,5 @@
-/*jshint esversion: 6 */
-
 const { ChatInputCommandInteraction, EmbedBuilder } = require("discord.js");
+const fetch = (...args) => import("node-fetch").then(({ default: fetch }) => fetch(...args));
 
 module.exports = {
 	name: "joke",
