@@ -37,6 +37,14 @@
 - [License](#license)
 - [Authors](#authors)
 
+## Features
+
+- Moderation ⚙️
+- Economy 💵
+- Music 🎶
+- Fun 🎈
+- Giveaways 🎉 (soon)
+
 ## Built With
 
 Voyager is built with discord.js version 14
