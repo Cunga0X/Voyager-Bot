@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Cunga0X/Voyager-Bot">
-    <img src="https://cdn.discordapp.com/attachments/1047634549644992624/1056512474213531668/Voyager_1.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/1047634549644992624/1056855153925443594/voyager.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Voyager</h3>
