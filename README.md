@@ -22,7 +22,7 @@
 </p>
 <div align="center">
 
-![Version](https://img.shields.io/github/v/release/Cunga0X/Voyager-Bot?color=blue&include_prereleases&label=version) ![Status](https://img.shields.io/uptimerobot/status/m793332217-e8f96c60288b532ef2ed2396) ![Uptime](https://img.shields.io/uptimerobot/ratio/m793332217-e8f96c60288b532ef2ed2396) ![Contributors](https://img.shields.io/github/contributors/Cunga0X/Voyager-Bot?color=dark-green) ![Issues](https://img.shields.io/github/issues/Cunga0X/Voyager-Bot) ![License](https://img.shields.io/github/license/Cunga0X/Voyager-Bot)
+![Version](https://img.shields.io/github/v/release/Cunga0X/Voyager-Bot?color=blue&include_prereleases&label=version) ![Status](https://img.shields.io/uptimerobot/status/m793336503-2b8c31af5b7ff22295885d09) ![Uptime](https://img.shields.io/uptimerobot/ratio/m793336503-2b8c31af5b7ff22295885d09) ![Contributors](https://img.shields.io/github/contributors/Cunga0X/Voyager-Bot?color=dark-green) ![Issues](https://img.shields.io/github/issues/Cunga0X/Voyager-Bot) ![License](https://img.shields.io/github/license/Cunga0X/Voyager-Bot)
 
 </div>
 
