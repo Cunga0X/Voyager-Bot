@@ -109,4 +109,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Cunga0X/Voya
 
 ## Authors
 
-- **Cunga0X** - [Profile page](https://github.com/Cunga0X/)
+<a href="https://github.com/Cunga0X/Voyager-Bot/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Cunga0X/Voyager-Bot" />
+</a>
